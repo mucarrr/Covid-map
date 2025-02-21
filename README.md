@@ -21,4 +21,4 @@ How to test components using Providers and props?
 
 📍This project provided me with a great opportunity to gradually integrate unit testing step by step.
 # Preview of the project
-![](2025-02-22 00-28-03.gif)
+![](covid.gif)

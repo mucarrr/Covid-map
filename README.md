@@ -1,4 +1,4 @@
-# 🚀 My new project, 'COVID-19 map application'..
+# 🚀 COVID-19 map application
 This project was created to practice unit testing, integrating Redux-Thunk for API data fetching. I also used React Testing Library and Jest to test components, functions, and the Redux store.
 # 🛠 Project Features
 ✅ Live COVID-19 data is fetched from an API and displayed on the homepage.
